@@ -29,58 +29,43 @@ namespace System
         }
         public static string Distinguish(string top, string mid, string bot)
         {
-            if (mid == "| |") //0
-            {
+            //0
+            if (mid == "| |")
                 return "0";
-            }
-            else if (bot == "  |") //1 4 7 9
-            {
+
+            //1 4 7 9
+            if (bot == "  |")
                 if (mid == "  |") //1 7
                 {
                     if (top == "   ")
-                    {
                         return "1";
-                    }
-                    else
-                    {
-                        return "7";
-                    }
+                    return "7";
                 }
                 else //4 9
                 {
                     if (top == "   ")
-                    {
                         return "4";
-                    }
-                    else
-                    {
-                        return "9";
-                    }
+                    return "9";
                 }
-            }
-            else if (mid == "|_|") //8
-            {
+
+            //8
+            if (mid == "|_|")
                 return "8";
-            }
-            else if (mid == " _|") //2 3
-            {
+
+
+            //2 3
+            if (mid == " _|")
                 if (bot == "|_ ")
-                {
                     return "2";
-                }
                 else
-                {
                     return "3";
-                }
-            }
-            else if (bot == "|_|")
-            {
+
+            //6
+            if (bot == "|_|")
                 return "6";
-            }
-            else
-            {
-                return "5";
-            }
+
+            //5
+            return "5";
         }
     }
 }
