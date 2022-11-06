@@ -10,11 +10,9 @@ namespace System
             string line3;
             string results = "";
 
-            while (true)
+            while ((line1 = Console.ReadLine()) != null && line1 != "")
             {
                 //INPUT DATA
-                line1 = Console.ReadLine();
-                if (line1 == "") break; //BREAK IF LINE1 IS EMPTY
                 line2 = Console.ReadLine();
                 line3 = Console.ReadLine();
 

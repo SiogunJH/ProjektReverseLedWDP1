@@ -1,0 +1,15 @@
+E:\Studia\Projekty\ProjektReverseLedWDP1\bin\Debug\net6.0\ProjektReverseLedWDP1.exe
+E:\Studia\Projekty\ProjektReverseLedWDP1\bin\Debug\net6.0\ProjektReverseLedWDP1.deps.json
+E:\Studia\Projekty\ProjektReverseLedWDP1\bin\Debug\net6.0\ProjektReverseLedWDP1.runtimeconfig.json
+E:\Studia\Projekty\ProjektReverseLedWDP1\bin\Debug\net6.0\ProjektReverseLedWDP1.dll
+E:\Studia\Projekty\ProjektReverseLedWDP1\bin\Debug\net6.0\ref\ProjektReverseLedWDP1.dll
+E:\Studia\Projekty\ProjektReverseLedWDP1\bin\Debug\net6.0\ProjektReverseLedWDP1.pdb
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.csproj.AssemblyReference.cache
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.AssemblyInfoInputs.cache
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.AssemblyInfo.cs
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.dll
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ref\ProjektReverseLedWDP1.dll
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.pdb
+E:\Studia\Projekty\ProjektReverseLedWDP1\obj\Debug\net6.0\ProjektReverseLedWDP1.genruntimeconfig.cache
